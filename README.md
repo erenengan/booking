@@ -20,7 +20,7 @@ Online hotel prices can vary significantly even within the same city. By analyzi
 
 ---
 
-## 🗃️ Project Structure
+## Project Structure
 
 ```bash
 .
